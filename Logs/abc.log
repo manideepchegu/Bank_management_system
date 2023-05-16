@@ -1,0 +1,50 @@
+WARNING:2023-05-08 15:00:23,517:app:starting the data base connection for creating a acoount_id
+WARNING:2023-05-08 15:01:18,926:app:starting the data base connection for creating a acoount_id
+WARNING:2023-05-08 15:01:19,174:app:close the database connection as account_id is created
+WARNING:2023-05-08 15:01:44,643:app:starting the data base connection for creating a acoount_id
+WARNING:2023-05-08 15:01:44,838:app:close the database connection as account_id is created
+WARNING:2023-05-08 15:54:48,250:app:starting the database connection for getting the information about account_id
+ERROR:2023-05-08 15:54:48,381:settings:Error occurred: name 'data_list' is not defined
+WARNING:2023-05-08 15:55:05,097:app:starting the database connection for getting the information about account_id
+ERROR:2023-05-08 15:55:05,241:settings:Error occurred: name 'data_list' is not defined
+WARNING:2023-05-08 15:55:21,357:app:starting the database connection for getting the information about account_id
+WARNING:2023-05-08 16:00:30,447:app:starting the database connection for getting the information about account_id
+WARNING:2023-05-08 16:49:31,058:app:setting the database connection for withdrawing
+ERROR:2023-05-08 16:49:31,058:settings:Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+WARNING:2023-05-08 16:49:46,564:app:setting the database connection for withdrawing
+WARNING:2023-05-08 17:01:06,984:app:starting the data base connection for updating the amount of a id
+WARNING:2023-05-08 17:02:21,592:app:starting the data base connection for updating the amount of a id
+WARNING:2023-05-08 17:03:50,292:app:starting the data base connection for updating the amount of a id
+WARNING:2023-05-14 03:01:20,735:app:starting the database connection for getting the information about account_id
+WARNING:2023-05-14 03:04:20,103:app:starting the database connection for getting the information about account_id
+WARNING:2023-05-14 03:05:49,176:app:starting the database connection for getting the information about account_id
+WARNING:2023-05-14 03:08:20,355:app:starting the database connection
+WARNING:2023-05-14 03:08:52,404:app:starting the database connection
+WARNING:2023-05-14 03:14:05,751:app:starting the database connection
+WARNING:2023-05-14 03:28:18,608:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 03:28:18,609:settings:Error occurred: 'dict' object is not callable
+WARNING:2023-05-14 03:29:00,558:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 03:29:00,559:settings:Error occurred: 'dict' object is not callable
+WARNING:2023-05-14 03:30:37,770:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 03:30:37,771:settings:Error occurred: 'dict' object is not callable
+WARNING:2023-05-14 03:31:39,492:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 03:31:39,494:settings:Error occurred: 'dict' object is not callable
+WARNING:2023-05-14 03:33:47,078:app:starting the data base connection for updating the amount of a id
+WARNING:2023-05-14 23:11:43,304:app:starting the data base connection for updating the amount of a id
+WARNING:2023-05-14 23:21:49,983:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 23:21:49,984:settings:Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+WARNING:2023-05-14 23:23:48,358:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 23:23:48,359:settings:Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+WARNING:2023-05-14 23:27:00,895:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 23:27:00,896:settings:Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+WARNING:2023-05-14 23:31:22,432:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 23:31:22,578:settings:Error occurred: column "account_type" does not exist
+LINE 1: SELECT account_type,balance FROM accountdetails WHERE accoun...
+               ^
+
+WARNING:2023-05-14 23:32:02,365:app:starting the data base connection for updating the amount of a id
+ERROR:2023-05-14 23:32:02,521:settings:Error occurred: column "account_type" does not exist
+LINE 1: SELECT account_type,balance FROM accountdetails WHERE accoun...
+               ^
+
+WARNING:2023-05-14 23:32:19,390:app:starting the data base connection for updating the amount of a id
